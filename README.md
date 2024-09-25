@@ -36,4 +36,12 @@
 
 <img width="163" alt="Screenshot 2024-09-25 201135" src="https://github.com/user-attachments/assets/bf5d68c3-f190-45fa-ad4c-4e2c8426ac4e">
 
+⊙ Four possible outputs:
 
+‧ Invalid Input. Try Again...
+
+‧ This game was a draw.
+
+‧ You win.
+
+‧ You lose.
