@@ -39,6 +39,9 @@
 
 ⊙ all possible game situations in a table ( ↴ )
 
+
+
+
 ### $\textsf{\color{#ff80be}{🔸 Invalid Input. Try Again...}}$
 
 $\textsf{\color{#d6b39c}{Input -->}}$  $${\color{pink}-Anything..}$$
