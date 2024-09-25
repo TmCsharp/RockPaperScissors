@@ -54,17 +54,17 @@
   
 **Input** --> $${\color{green}paper}$$ == $${\color{green}paper}$$
   
-**Input** --> *-scissors* == *scissors*
+**Input** --> $${\color{blue}scissors}$$ == $${\color{blue}s}$$
 
 
   
 ### ‧ You win.
 
-**Input** --> $${\color{red}rock}$$ == *scissors*
+**Input** --> $${\color{red}rock}$$ == $${\color{blue}scissors}$$
   
 **Input** --> $${\color{green}paper}$$ == $${\color{red}rock}$$
   
-**Input** --> *-scissors* == $${\color{green}paper}$$
+**Input** --> $${\color{blue}scissors}$$ == $${\color{green}paper}$$
 
 
   
@@ -72,6 +72,6 @@
 
 **Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
   
-**Input** --> $${\color{green}paper}$$ == *scissors*
+**Input** --> $${\color{green}paper}$$ == $${\color{blue}scissors}$$
   
-**Input** --> *-scissors* == $${\color{red}rock}$$
+**Input** --> $${\color{blue}scissors}$$ == $${\color{red}rock}$$
