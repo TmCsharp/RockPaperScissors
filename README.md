@@ -30,7 +30,7 @@
 
 ## Input & Output.
 
-$${\color{lightblue}⊙ The player enters one of the following options:}$$
+$${\color{lightblue}⊙ The.player.enters.one.of.the.following_options:}$$
 ⊙ The player enters one of the following options:
 
 ‧ **rock** <sub>or</sub> **r**
