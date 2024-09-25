@@ -60,7 +60,7 @@
 
 
   
-### ‧ You win.`#0969DA`
+### ‧ You win.
 
 **Input** --> *-rock* == *scissors*
   
@@ -77,3 +77,4 @@
 **Input** --> *-paper* == *scissors*
   
 **Input** --> *-scissors* == *rock*
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
