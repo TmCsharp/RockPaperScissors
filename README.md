@@ -1,5 +1,3 @@
-# Rock_Paper_Scissors
-
 # $${\color{red}Rock-Paper-Scissors}$$
 
 ⊙ Project title (Mini game with the computer.)
@@ -32,7 +30,7 @@
 
 ## Input & Output.
 
-
+$${\color{lightblue}⊙ The player enters one of the following options:}$$
 ⊙ The player enters one of the following options:
 
 ‧ **rock** <sub>or</sub> **r**
