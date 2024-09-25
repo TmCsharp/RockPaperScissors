@@ -79,10 +79,10 @@
 
 $${\color{white}White}$$
 
-$${\color{black}pink}$$
+$${\color{pink}pink}$$
 
-$${\color{purple}Purple}$$
+$${\color{brown}brown}$$
 
 $${\color{cyan}cyan}$$
 
-$${\color{magenta}magenta}$$
+$${\color{lightred}lightred}$$
