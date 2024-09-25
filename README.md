@@ -73,4 +73,6 @@
   
 **Input** --> $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
 
+### $\textsf{\color{#f48522}{Phase 1.}}$ 
 
+🔴
