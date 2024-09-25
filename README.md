@@ -75,5 +75,4 @@
 
 
 
-$\textsf{\color{#e8dad6}{**Input**}}$
-$\textsf{\color{#e8dad6}{Input}}$
+$\textsf{\color{#e8dad6}{Input -->}}$
