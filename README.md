@@ -41,37 +41,37 @@
 
 ### $\textsf{\color{#ff80be}{🔸 Invalid Input. Try Again...}}$
 
-**Input** -->  $${\color{pink}-Anything..}$$
+$\textsf{\color{#d6b39c}{Input -->}}$  $${\color{pink}-Anything..}$$
 
 
   
 ### $\textsf{\color{#ff80be}{🔸This game was a draw.}}$
 
-**Input** --> $${\color{red}rock}$$ == $${\color{red}rock}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ == $${\color{red}rock}$$
 
-**Input** --> $${\color{green}paper}$$ == $${\color{green}paper}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ == $${\color{green}paper}$$
  
-**Input** --> $${\color{cyan}scissors}$$ == $${\color{cyan}s}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{cyan}s}$$
 
 
   
 ### $\textsf{\color{#ff80be}{🔸You win.}}$
 
-**Input** --> $${\color{red}rock}$$ == $${\color{cyan}scissors}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ == $${\color{cyan}scissors}$$
   
-**Input** --> $${\color{green}paper}$$ == $${\color{red}rock}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ == $${\color{red}rock}$$
 
-**Input** --> $${\color{cyan}scissors}$$ == $${\color{green}paper}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{green}paper}$$
 
 
   
 ### $\textsf{\color{#ff80be}{🔸You lose.}}$
 
-**Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ == $${\color{green}paper}$$
   
-**Input** --> $${\color{green}paper}$$ == $${\color{cyan}scissors}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ == $${\color{cyan}scissors}$$
  
-**Input** --> $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
 
 
 
