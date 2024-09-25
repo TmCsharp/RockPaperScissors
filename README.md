@@ -74,7 +74,3 @@
 **Input** --> $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
 
 
-
-
-
-- ![#f03c15]sdfgh `#f03c1h5`
