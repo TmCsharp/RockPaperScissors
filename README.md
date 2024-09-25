@@ -84,4 +84,4 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color
 
 
 
-$\textsf{\color{#9fb9bf}{==}}$
+$\textsf{\color{#e3d6ef}{or}}$
