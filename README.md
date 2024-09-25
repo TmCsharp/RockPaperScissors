@@ -39,13 +39,13 @@
 
 ⊙ all possible game situations in a table ( ↴ )
 
-### 🔸 Invalid Input. Try Again...
+### $\textsf{\color{#ff80be}{🔸 Invalid Input. Try Again...}}$
 
 **Input** -->  $${\color{pink}-Anything..}$$
 
 
   
-### 🔸 This game was a draw.
+### $\textsf{\color{#ff80be}{🔸This game was a draw.}}$
 
 **Input** --> $${\color{red}rock}$$ == $${\color{red}rock}$$
 
@@ -55,7 +55,7 @@
 
 
   
-### 🔸 You win.
+### $\textsf{\color{#ff80be}{🔸You win.}}$
 
 **Input** --> $${\color{red}rock}$$ == $${\color{cyan}scissors}$$
   
