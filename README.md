@@ -46,28 +46,28 @@
 
 ### ‧ Invalid Input. Try Again...
 
-  *-Anything..*
+**Input** --> *-Anything..*
   
 ### ‧ This game was a draw.
 
-  *-rock* == *rock*
+**Input** --> *-rock* == *rock*
   
-  *-paper* == *paper*
+**Input** --> *-paper* == *paper*
   
-  *-scissors* == *scissors*
+**Input** --> *-scissors* == *scissors*
   
 ### ‧ You win.
 
-  *-rock* == *scissors*
+**Input** --> *-rock* == *scissors*
   
-  *-paper* == *rock*
+**Input** --> *-paper* == *rock*
   
-  *-scissors* == *paper*
+**Input** --> *-scissors* == *paper*
   
 ### ‧ You lose.
 
-  *-rock* == *paper*
+**Input** --> *-rock* == *paper*
   
-  *-paper* == *scissors*
+**Input** --> *-paper* == *scissors*
   
-  *-scissors* == *rock*
+**Input** --> *-scissors* == *rock*
