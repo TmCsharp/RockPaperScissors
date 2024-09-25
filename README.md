@@ -28,12 +28,12 @@
 ‧ It is loved by children and adults alike, and it can be played anywhere, anytime, and with just about any object at hand. 
 ‧ At first glance, the game seems incredibly simple, but the science behind it is not as simple as it might seem.
 
-$${\color{red}rock}$$ ## Input & Output. $${\color{red}rock}$$
-$${\color{red}rock}$$
+## Input & Output.
+
 
 ⊙ The player enters one of the following options:
 
-‧ **rock** <sub>or</sub> **r**
+‧ $${\color{red}rock}$$ <sub>or</sub> $${\color{red}rock}$$
 
 ‧ **paper** <sub>or</sub> **p**
 
