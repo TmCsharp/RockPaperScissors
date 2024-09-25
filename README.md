@@ -1,4 +1,4 @@
-# $${\color{purple}Rock-Paper-Scissors}$$
+# $${\color{purple}Rock-Paper-Scissors}$$ 
 
 ⊙ Project title (Mini game with the computer.)
 
@@ -65,7 +65,7 @@
 
 
   
-### 🔸 You lose.
+🔸### $\textsf{\color{#ff80be}{You lose.}}$
 
 **Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
   
