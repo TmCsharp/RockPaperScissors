@@ -60,7 +60,7 @@
 
 
   
-### ‧ You win.#0969DA
+### ‧ You win.`#0969DA`
 
 **Input** --> *-rock* == *scissors*
   
