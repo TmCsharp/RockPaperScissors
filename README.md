@@ -44,7 +44,7 @@
 
 ### ‧ Invalid Input. Try Again...
 
-**Input** -->  $${\color{cyan}-Anything..}$$
+**Input** -->  $${\color{pink}-Anything..}$$
 
 
   
