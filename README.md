@@ -35,10 +35,9 @@
 ‧ $${\color{green}paper}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{green}p}$$
 
 ‧ $${\color{cyan}scissors}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{cyan}s}$$
-
-
-⊙ all possible game situations in a table ( ↴ )
 <br />
+<br />
+⊙ all possible game situations in a table ( ↴ )
 <br />
 <br />
 <br />
