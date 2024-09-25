@@ -72,14 +72,3 @@
 **Input** --> $${\color{green}paper}$$ == $${\color{cyan}scissors}$$
   
 **Input** --> $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
-
-
-$${\color{white}White}$$
-
-$${\color{pink}pink}$$
-
-$${\color{brown}brown}$$
-
-$${\color{cyan}cyan}$$
-
-$${\color{lightred}lightred}$$
