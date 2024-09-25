@@ -68,12 +68,7 @@
   
 **Input** --> *-scissors* == *paper*
 
-+ C +
-- O -
-! L !
-@@ O @@
-# R #
-S
+
   
 ### ‧ You lose.
 
