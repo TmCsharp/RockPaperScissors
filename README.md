@@ -13,7 +13,8 @@
 <img width="863" alt="Screenshot 2024-09-25 193138" src="https://github.com/user-attachments/assets/cae36c38-3f89-46f7-a88b-f34b896020f1">
 
 
-⊙ Live demo ([<img alt="Play Button" src="https://replit.com/@bc691/RockPaperScissorsGame#Main.cs")
+⊙ Live demo ([<img width="50" alt="Button" src="https://github.com/user-attachments/assets/8cba8ce8-9bc9-4f93-923c-eb24b8b73206">
+ https://replit.com/@bc691/RockPaperScissorsGame#Main.cs)
 
 ⊙ Description ( ↴ )
 
