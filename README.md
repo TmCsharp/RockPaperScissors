@@ -37,7 +37,7 @@
 
 ‧ $${\color{green}paper}$$ <sub>or</sub> $${\color{green}p}$$
 
-‧ **scissors** <sub>or</sub> **s**
+‧ $${\color{cyan}scissors}$$ <sub>or</sub> $${\color{cyan}s}$$
 
 
 ⊙ all possible game situations in a table ( ↴ )
@@ -54,17 +54,17 @@
   
 **Input** --> $${\color{green}paper}$$ == $${\color{green}paper}$$
   
-**Input** --> $${\color{lightblue}scissors}$$ == $${\color{lightblue}s}$$
+**Input** --> $${\color{cyan}scissors}$$ == $${\color{cyan}s}$$
 
 
   
 ### ‧ You win.
 
-**Input** --> $${\color{red}rock}$$ == $${\color{lightblue}scissors}$$
+**Input** --> $${\color{red}rock}$$ == $${\color{cyan}scissors}$$
   
 **Input** --> $${\color{green}paper}$$ == $${\color{red}rock}$$
   
-**Input** --> $${\color{lightblue}scissors}$$ == $${\color{green}paper}$$
+**Input** --> $${\color{cyan}scissors}$$ == $${\color{green}paper}$$
 
 
   
@@ -72,9 +72,9 @@
 
 **Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
   
-**Input** --> $${\color{green}paper}$$ == $${\color{lightblue}scissors}$$
+**Input** --> $${\color{green}paper}$$ == $${\color{cyan}scissors}$$
   
-**Input** --> $${\color{lightblue}scissors}$$ == $${\color{red}rock}$$
+**Input** --> $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
 
 
 $${\color{white}White}$$
