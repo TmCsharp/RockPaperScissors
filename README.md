@@ -42,9 +42,13 @@
 ### $\textsf{\color{#ff80be}{🔸 Invalid Input. Try Again...}}$
 
 $\textsf{\color{#d6b39c}{Input -->}}$  $${\color{pink}-Anything..}$$
+
 💠
+
 💠
+
 💠  
+
 ### $\textsf{\color{#ff80be}{🔸This game was a draw.}}$
 
 $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ $\textsf{\color{#9fb9bf}{==}}$
@@ -55,9 +59,13 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ $\textsf{\color{#
  
 $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color{#9fb9bf}{==}}$
  $${\color{cyan}s}$$
+ 
 💠
+
 💠
+
 💠
+
 ### $\textsf{\color{#ff80be}{🔸You win.}}$
 
 $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ $\textsf{\color{#9fb9bf}{==}}$
@@ -68,9 +76,13 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ $\textsf{\color{#
 
 $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color{#9fb9bf}{==}}$
  $${\color{green}paper}$$
+ 
 💠
+
 💠
+
 💠 
+
 ### $\textsf{\color{#ff80be}{🔸You lose.}}$
 
 $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ $\textsf{\color{#9fb9bf}{==}}$
