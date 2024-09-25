@@ -75,4 +75,4 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{re
 
 
 
-$\textsf{\color{#d6b39c}{Input -->}}$
+$\textsf{\color{#004b58}{==}}$
