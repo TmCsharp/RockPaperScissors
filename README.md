@@ -75,7 +75,7 @@
 
 
 
-# $\textsf{\color{#f5750e}{f5750e}}$
+### $\textsf{\color{#f5750e}{You win.}}$
 
 ## $\textsf{\color{#f48522}{f48522}}$
 
