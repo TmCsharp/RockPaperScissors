@@ -45,19 +45,29 @@
 ⊙ all possible game situations in a table ( ↴ )
 
 ‧ Invalid Input. Try Again...
+
   -Anything..
   
 ‧ This game was a draw.
+
   -**rock** == **rock**
+  
   -**paper** == **paper**
+  
   -**scissors** == **scissors**
   
 ‧ You win.
+
   -**rock** == **scissors**
+  
   -**paper** == **rock**
+  
   -**scissors** == **paper**
   
 ‧ You lose.
+
   -**rock** == **paper**
+  
   -**paper** == **scissors**
+  
   -**scissors** == **rock**
