@@ -65,7 +65,7 @@
 
 
   
-🔸### $\textsf{\color{#ff80be}{You lose.}}$
+### $\textsf{\color{#ff80be}{🔸You lose.}}$
 
 **Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
   
