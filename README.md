@@ -6,7 +6,7 @@
 
 · Solution (3x3 probability game.)
 
-· Source code link (No,for now.)
+· Source code link (No, for this one.)
 
 · Screenshot ( ↴ )
 
