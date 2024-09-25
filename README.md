@@ -28,7 +28,7 @@
 ‧ It is loved by children and adults alike, and it can be played anywhere, anytime, and with just about any object at hand. 
 ‧ At first glance, the game seems incredibly simple, but the science behind it is not as simple as it might seem.
 
-## Input & Output. $${\color{lightblue}Input.&.Output}$$
+## Input & Output. $${\color{lightblue}InputOutput}$$
 
 
 ⊙ The player enters one of the following options:
