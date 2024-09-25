@@ -33,7 +33,7 @@
 
 ⊙ The player enters one of the following options:
 
-‧ $${\color{red}rock}$$ <sub>or</sub> $${\color{red}rock}$$
+‧ $${\color{red}rock}$$ <sub>or</sub> $${\color{red}r}$$
 
 ‧ **paper** <sub>or</sub> **p**
 
@@ -50,7 +50,7 @@
   
 ### ‧ This game was a draw.
 
-**Input** --> *-rock* == *rock*
+**Input** --> $${\color{red}rock}$$ == $${\color{red}rock}$$
   
 **Input** --> *-paper* == *paper*
   
