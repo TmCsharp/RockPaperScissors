@@ -84,4 +84,4 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color
 
 
 
-$\textsf{\color{#e3d6ef}{<sub>or</sub>}}$
+<sub>$\textsf{\color{#e3d6ef}{or}}$</sub>
