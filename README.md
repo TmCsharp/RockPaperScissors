@@ -1,22 +1,22 @@
 # $${\color{purple}Rock-Paper-Scissors}$$ 
 
-🔸 Project title (Mini game with the computer.)
+## 🔸 Project title (Mini game with the computer.)
 
 
-🔸 Project goals (Game for fun.)
+## 🔸 Project goals (Game for fun.)
 
 
-🔸 Source code link ([Here](https://github.com/TmCsharp/RockPaperScissors/blob/522ada6d26d319e3948bee980201108e3a2649ee/RockPaperScissors.cs#L1))
+## 🔸 Source code link ([Here](https://github.com/TmCsharp/RockPaperScissors/blob/522ada6d26d319e3948bee980201108e3a2649ee/RockPaperScissors.cs#L1))
 
 
-🔸 Screenshot ( ↴ )
+## 🔸 Screenshot ( ↴ )
 
 
 <img width="863" alt="Screenshot 2024-09-25 193138" src="https://github.com/user-attachments/assets/cae36c38-3f89-46f7-a88b-f34b896020f1">
 
 
 
-🔸 Description ( ↴ )
+## 🔸 Description ( ↴ )
 
 <img width="245" alt="Screenshot 2024-09-25 195619" src="https://github.com/user-attachments/assets/f4c17cf7-aeb5-43cb-bf10-4ebf78f945d2">
 
@@ -28,7 +28,7 @@
 ## Input & Output.
 
 
-🔸 The player enters one of the following options:
+## 🔸 The player enters one of the following options:
 <br />
 <br />
 ‧ $${\color{red}rock}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{red}r}$$
@@ -39,7 +39,7 @@
 <br />
 <br />
 <br />
-🔸 all possible game situations in a table ( ↴ )
+## 🔸 all possible game situations in a table ( ↴ )
 <br />
 <br />
 ### $\textsf{\color{#ff80be}{Invalid Input. Try Again...}}$
