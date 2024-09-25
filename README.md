@@ -29,7 +29,7 @@
 ‧ At first glance, the game seems incredibly simple, but the science behind it is not as simple as it might seem.
 
 ## Input & Output.
-
+$${\color{red}**rock**}$$
 
 ⊙ The player enters one of the following options:
 
