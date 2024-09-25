@@ -27,7 +27,9 @@
 ⊙ The player enters one of the following options:
 
 ‧ **rock** <sub>or</sub> **r**
+
 ‧ **paper** <sub>or</sub> **p**
+
 ‧ **scissors** <sub>or</sub> **s**
 
 ⊙ all possible game situations in a table ( ↴ )
