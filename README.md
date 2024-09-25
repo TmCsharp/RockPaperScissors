@@ -83,5 +83,5 @@
 
 #### $\textsf{\color{#18afd3}{18afd3}}$
 
-##### $\textsf{\color{#5ec3d5}{5ec3d5}}$
+##### $\textsf{\color{##FFC0CB}{5ec3d5}}$
 
