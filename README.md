@@ -75,3 +75,10 @@
 **Input** --> $${\color{green}paper}$$ == $${\color{blue}scissors}$$
   
 **Input** --> $${\color{blue}scissors}$$ == $${\color{red}rock}$$
+
+
+$${\color{white}White}$$
+
+$${\color{black}Black}$$
+
+$${\color{purple}Purple}$$
