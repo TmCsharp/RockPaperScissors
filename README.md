@@ -75,13 +75,5 @@
 
 
 
-### $\textsf{\color{#f5750e}{You win.}}$
-
-## $\textsf{\color{#f48522}{f48522}}$
-
-### $\textsf{\color{#326a95}{326a95}}$
-
-#### $\textsf{\color{#18afd3}{18afd3}}$
-
-### $\textsf{\color{#ff80be}{You lose.}}$
-
+$\textsf{\color{#e8dad6}{**Input**}}$
+$\textsf{\color{#e8dad6}{Input}}$
