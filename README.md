@@ -1,4 +1,4 @@
-# $${\color{lightblue}Rock-Paper-Scissors}$$
+# $${\color{purple}Rock-Paper-Scissors}$$
 
 ⊙ Project title (Mini game with the computer.)
 
@@ -54,17 +54,17 @@
   
 **Input** --> $${\color{green}paper}$$ == $${\color{green}paper}$$
   
-**Input** --> $${\color{blue}scissors}$$ == $${\color{blue}s}$$
+**Input** --> $${\color{lightblue}scissors}$$ == $${\color{lightblue}s}$$
 
 
   
 ### ‧ You win.
 
-**Input** --> $${\color{red}rock}$$ == $${\color{blue}scissors}$$
+**Input** --> $${\color{red}rock}$$ == $${\color{lightblue}scissors}$$
   
 **Input** --> $${\color{green}paper}$$ == $${\color{red}rock}$$
   
-**Input** --> $${\color{blue}scissors}$$ == $${\color{green}paper}$$
+**Input** --> $${\color{lightblue}scissors}$$ == $${\color{green}paper}$$
 
 
   
@@ -72,9 +72,9 @@
 
 **Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
   
-**Input** --> $${\color{green}paper}$$ == $${\color{blue}scissors}$$
+**Input** --> $${\color{green}paper}$$ == $${\color{lightblue}scissors}$$
   
-**Input** --> $${\color{blue}scissors}$$ == $${\color{red}rock}$$
+**Input** --> $${\color{lightblue}scissors}$$ == $${\color{red}rock}$$
 
 
 $${\color{white}White}$$
