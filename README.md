@@ -6,9 +6,6 @@
 ⊙ Project goals (Game for fun.)
 
 
-⊙ Solution (3x3 probability game.)
-
-
 ⊙ Source code link ([Here](https://github.com/TmCsharp/RockPaperScissors/blob/522ada6d26d319e3948bee980201108e3a2649ee/RockPaperScissors.cs#L1))
 
 
