@@ -13,8 +13,6 @@
 <img width="863" alt="Screenshot 2024-09-25 193138" src="https://github.com/user-attachments/assets/cae36c38-3f89-46f7-a88b-f34b896020f1">
 
 
-⊙ Live demo (No, for now..)
-
 ⊙ Description ( ↴ )
 
 <img width="245" alt="Screenshot 2024-09-25 195619" src="https://github.com/user-attachments/assets/f4c17cf7-aeb5-43cb-bf10-4ebf78f945d2">
