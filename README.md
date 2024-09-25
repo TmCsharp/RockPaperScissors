@@ -35,7 +35,7 @@
 
 ‧ $${\color{red}rock}$$ <sub>or</sub> $${\color{red}r}$$
 
-‧ **paper** <sub>or</sub> **p**
+‧ $${\color{green}paper}$$ <sub>or</sub> $${\color{green}p}$$
 
 ‧ **scissors** <sub>or</sub> **s**
 
@@ -52,7 +52,7 @@
 
 **Input** --> $${\color{red}rock}$$ == $${\color{red}rock}$$
   
-**Input** --> *-paper* == *paper*
+**Input** --> $${\color{green}paper}$$ == $${\color{green}paper}$$
   
 **Input** --> *-scissors* == *scissors*
 
@@ -62,16 +62,16 @@
 
 **Input** --> $${\color{red}rock}$$ == *scissors*
   
-**Input** --> *-paper* == $${\color{red}rock}$$
+**Input** --> $${\color{green}paper}$$ == $${\color{red}rock}$$
   
-**Input** --> *-scissors* == *paper*
+**Input** --> *-scissors* == $${\color{green}paper}$$
 
 
   
 ### ‧ You lose.
 
-**Input** --> $${\color{red}rock}$$ == *paper*
+**Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
   
-**Input** --> *-paper* == *scissors*
+**Input** --> $${\color{green}paper}$$ == *scissors*
   
 **Input** --> *-scissors* == $${\color{red}rock}$$
