@@ -1,6 +1,6 @@
 # Rock_Paper_Scissors
 
-# $${\color{red}Rock Paper Scissors}$$
+# $${\color{red}Rock-Paper-Scissors}$$
 
 ⊙ Project title (Mini game with the computer.)
 
