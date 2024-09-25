@@ -30,11 +30,11 @@
 
 ⊙ The player enters one of the following options:
 
-‧ $${\color{red}rock}$$ <sub>or</sub> $${\color{red}r}$$
+‧ $${\color{red}rock}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{red}r}$$
 
-‧ $${\color{green}paper}$$ <sub>or</sub> $${\color{green}p}$$
+‧ $${\color{green}paper}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{green}p}$$
 
-‧ $${\color{cyan}scissors}$$ <sub>or</sub> $${\color{cyan}s}$$
+‧ $${\color{cyan}scissors}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{cyan}s}$$
 
 
 ⊙ all possible game situations in a table ( ↴ )
