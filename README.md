@@ -60,9 +60,9 @@
   
 ### ‧ You win.
 
-**Input** --> *-rock* == *scissors*
+**Input** --> $${\color{red}rock}$$ == *scissors*
   
-**Input** --> *-paper* == *rock*
+**Input** --> *-paper* == $${\color{red}rock}$$
   
 **Input** --> *-scissors* == *paper*
 
@@ -70,8 +70,8 @@
   
 ### ‧ You lose.
 
-**Input** --> *-rock* == *paper*
+**Input** --> $${\color{red}rock}$$ == *paper*
   
 **Input** --> *-paper* == *scissors*
   
-**Input** --> *-scissors* == *rock*
+**Input** --> *-scissors* == $${\color{red}rock}$$
