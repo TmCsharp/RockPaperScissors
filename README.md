@@ -47,31 +47,40 @@ $\textsf{\color{#d6b39c}{Input -->}}$  $${\color{pink}-Anything..}$$
   
 ### $\textsf{\color{#ff80be}{🔸This game was a draw.}}$
 
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ == $${\color{red}rock}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{red}rock}$$
 
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ == $${\color{green}paper}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{green}paper}$$
  
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{cyan}s}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{cyan}s}$$
 
 
   
 ### $\textsf{\color{#ff80be}{🔸You win.}}$
 
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ == $${\color{cyan}scissors}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{cyan}scissors}$$
   
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ == $${\color{red}rock}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{red}rock}$$
 
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{green}paper}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{green}paper}$$
 
 
   
 ### $\textsf{\color{#ff80be}{🔸You lose.}}$
 
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ == $${\color{green}paper}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{red}rock}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{green}paper}$$
   
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ == $${\color{cyan}scissors}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{cyan}scissors}$$
  
-$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
+$\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color{#9fb9bf}{==}}$
+ $${\color{red}rock}$$
 
 
 
