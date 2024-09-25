@@ -97,3 +97,9 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color
 (<br>)
 (<br>)
 2
+<br />
+<br />
+<br />
+<br />
+<br />
+3
