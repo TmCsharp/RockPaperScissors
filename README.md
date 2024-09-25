@@ -31,16 +31,16 @@
 ⊙ The player enters one of the following options:
 
 ‧ $${\color{red}rock}$$ <sub>or</sub> $${\color{red}r}$$
-▪️
+
 ‧ $${\color{green}paper}$$ <sub>or</sub> $${\color{green}p}$$
-▪️
+
 ‧ $${\color{cyan}scissors}$$ <sub>or</sub> $${\color{cyan}s}$$
 
 
 ⊙ all possible game situations in a table ( ↴ )
 
 ### 🔸 Invalid Input. Try Again...
-▪️
+
 **Input** -->  $${\color{pink}-Anything..}$$
 
 
@@ -48,9 +48,9 @@
 ### 🔸 This game was a draw.
 
 **Input** --> $${\color{red}rock}$$ == $${\color{red}rock}$$
-▪️▪ 
+
 **Input** --> $${\color{green}paper}$$ == $${\color{green}paper}$$
-▪️ 
+ 
 **Input** --> $${\color{cyan}scissors}$$ == $${\color{cyan}s}$$
 
 
@@ -58,9 +58,9 @@
 ### 🔸 You win.
 
 **Input** --> $${\color{red}rock}$$ == $${\color{cyan}scissors}$$
-▪️  
+  
 **Input** --> $${\color{green}paper}$$ == $${\color{red}rock}$$
-▪️  
+
 **Input** --> $${\color{cyan}scissors}$$ == $${\color{green}paper}$$
 
 
@@ -68,9 +68,9 @@
 ### 🔸 You lose.
 
 **Input** --> $${\color{red}rock}$$ == $${\color{green}paper}$$
-▪️  
+  
 **Input** --> $${\color{green}paper}$$ == $${\color{cyan}scissors}$$
-▪️  
+ 
 **Input** --> $${\color{cyan}scissors}$$ == $${\color{red}rock}$$
 
 
