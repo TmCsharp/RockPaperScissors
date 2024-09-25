@@ -29,7 +29,8 @@
 
 
 ⊙ The player enters one of the following options:
-
+<br />
+<br />
 ‧ $${\color{red}rock}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{red}r}$$
 
 ‧ $${\color{green}paper}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{green}p}$$
@@ -37,8 +38,8 @@
 ‧ $${\color{cyan}scissors}$$ <sub>$\textsf{\color{#e3d6ef}{or}}$</sub> $${\color{cyan}s}$$
 <br />
 <br />
-⊙ all possible game situations in a table ( ↴ )
 <br />
+⊙ all possible game situations in a table ( ↴ )
 <br />
 <br />
 ### $\textsf{\color{#ff80be}{🔸 Invalid Input. Try Again...}}$
