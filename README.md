@@ -47,6 +47,8 @@
 ### ‧ Invalid Input. Try Again...
 
 **Input** --> *-Anything..*
+
+
   
 ### ‧ This game was a draw.
 
@@ -55,6 +57,8 @@
 **Input** --> *-paper* == *paper*
   
 **Input** --> *-scissors* == *scissors*
+
+
   
 ### ‧ You win.
 
@@ -63,6 +67,8 @@
 **Input** --> *-paper* == *rock*
   
 **Input** --> *-scissors* == *paper*
+
+
   
 ### ‧ You lose.
 
