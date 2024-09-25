@@ -10,7 +10,7 @@
 
 ⊙ Screenshot ( ↴ )
 
-<img width="389" alt="Screenshot 2024-09-25 193138" src="https://github.com/user-attachments/assets/83d130e8-36cd-4e4b-9f39-699370988e0c"> 
+<img width="863" alt="Screenshot 2024-09-25 193138" src="https://github.com/user-attachments/assets/cae36c38-3f89-46f7-a88b-f34b896020f1">
 
 ⊙ Live demo (No, for now)
 
