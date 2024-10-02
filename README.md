@@ -1,4 +1,4 @@
-# $${\color{purple}Rock-Paper-Scissors}$$ 
+# $${\color{purple}Rock-Paper-Scissors}$$  
 
 🔸 Project title (Mini game with the computer.)
 
