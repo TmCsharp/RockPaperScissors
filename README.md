@@ -84,3 +84,5 @@ $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{green}paper}$$ $\textsf{\color{#
  
 $\textsf{\color{#d6b39c}{Input -->}}$ $${\color{cyan}scissors}$$ $\textsf{\color{#9fb9bf}{==}}$
  $${\color{red}rock}$$
+
+ 
